@@ -1,0 +1,47 @@
+import MoreInfoImage from "../../assets/images/more_info/info_img.jpg";
+
+
+export default function () {
+    return (
+        <div className="more-info">
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-12">
+                        <div className="more-info-content">
+                            <div className="row">
+                                <div className="col-md-6">
+                                    <div className="left-image">
+                                        <img src={MoreInfoImage} alt="" />
+                                    </div>
+                                </div>
+                                <div className="col-md-6 align-self-center">
+                                    <div className="right-content">
+                                        <span>Who we are</span>
+                                        <h2>
+                                            Get to know about <em>our company</em>
+                                        </h2>
+                                        <p>
+                                            Our experience in inspection, together with our extensive knowledge
+                                            of internation standards guarantees that our clients have access to
+                                            the best personnel and techniques in the respective inspection disciplines.
+                                            Our inspectors are equipped with modern equipment and operations are
+                                            coordinated and reported via our web-based asset management platform.
+                                            <br />
+                                            <br />
+                                            CCL believe that we form part of your front line risk management resource
+                                            ensuring that project assets are prepared in compliance with relevant
+                                            standards...
+                                        </p>
+                                        <a href="#" className="filled-button">
+                                            Read More
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
+}
