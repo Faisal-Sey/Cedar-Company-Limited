@@ -7,51 +7,60 @@ export default function () {
                 <div className="row">
                     <div className="col-md-6">
                         <div className="left-content">
-                            <span>Lorem ipsum dolor sit amet</span>
                             <h2>
-                                Our solutions for your <em>business growth</em>
+                                Our <em>Vision</em>
                             </h2>
                             <p>
-                                Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit
-                                nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi
-                                tempus, porta metus vitae, faucibus augue.
-                                <br />
-                                <br />
-                                Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis,
-                                odio velit molestie nunc, ut posuere ante tortor ut neque.
+                                Being in the fore-front of what we do, satisfying
+                                our clients, managing projects and travelling far
+                                and wide in all the activities.
                             </p>
-                            <a href="" className="filled-button">
-                                Read More
-                            </a>
+                            <h2>
+                                Our <em>Mission</em>
+                            </h2>
+                            <p>
+                                Accompany our clients to create an optimum working
+                                environment for the safety of people and their
+                                properties for the protection of the environment
+                                and to optimize performance across a full range of
+                                technical inspections.
+                            </p>
                         </div>
                     </div>
                     <div className="col-md-6 align-self-center">
-                        <div className="row">
-                            <div className="col-md-6">
-                                <div className="count-area-content">
-                                    <div className="count-digit">945</div>
-                                    <div className="count-title">Work Hours</div>
-                                </div>
-                            </div>
-                            <div className="col-md-6">
-                                <div className="count-area-content">
-                                    <div className="count-digit">1280</div>
-                                    <div className="count-title">Great Reviews</div>
-                                </div>
-                            </div>
-                            <div className="col-md-6">
-                                <div className="count-area-content">
-                                    <div className="count-digit">578</div>
-                                    <div className="count-title">Projects Done</div>
-                                </div>
-                            </div>
-                            <div className="col-md-6">
-                                <div className="count-area-content">
-                                    <div className="count-digit">26</div>
-                                    <div className="count-title">Awards Won</div>
-                                </div>
-                            </div>
-                        </div>
+                        <h2>
+                            Our <em>Values</em>
+                        </h2>
+                        <p>
+                            Our values are at the heart of everything we do. They
+                            represent what we believe in and guide our
+                            decision-making, our behaviours, and foster our culture.
+                            We already work safely with integrity and with respect
+                            for others and the places in which we work. We have a focus
+                            on quality and a solutions orientated organisation. By
+                            formalizing these values and our underlying pillars of
+                            belief (behaviours). We are recognizing and acknowledging
+                            what is important to us as a company and what makes us
+                            CEDAR COMPANY LIMITED (CCL).<br/>
+                            Our Values are as follows: <br/>
+                            <em>SAFETY </em>: We will always but the health, well-being
+                            and safety of our people first. No compromise.
+                            <br/>
+                            <em>INTEGRITY </em>: We will operate at the highest level of
+                            integrity, never settling for second best.
+                            <br/>
+                            <em>QUALITY </em>: We will deliver the highest quality services,
+                            solutions and expertise, every single time.
+                            <br/>
+                            <em>RESPECT </em>: We will respect our people, customers,
+                            communities and our planet.
+                            <br/>
+                            <em>SOLUTION-ORIENTED </em>: We will adapt to change seize
+                            opportunities continuously innovate and be agile.
+                            <br/>
+                            <br/>
+                            OUR VALUES, OUR <em>SIQRS</em> METHOD
+                        </p>
                     </div>
                 </div>
             </div>

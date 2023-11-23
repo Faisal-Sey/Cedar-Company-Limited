@@ -75,9 +75,29 @@ export default function () {
                             </h4>
                             <p>
                                 To expand on our service, we offer tubular inspections
-                                and thread/equipment inspections according to DS-1APIMLNS2
+                                and thread/equipment inspections according to DS-1, API, ML, NS2
                                 level and client specification of OCTG Inspections. Our
                                 Solution...
+                            </p>
+                            <a href="about.html" className="filled-button">
+                                learn more
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {/* // Item */}
+                <div className="item item-4">
+                    <div className="img-fill">
+                        <div className="text-content">
+                            <h6>we have qualified personnel</h6>
+                            <h4>
+                                Lifting Inspection
+                            </h4>
+                            <p>
+                                Any lifting and hard equipment should be checked
+                                when installed and periodically thereafter. If
+                                this regular check is not done, they can be source
+                                of accident...
                             </p>
                             <a href="about.html" className="filled-button">
                                 learn more

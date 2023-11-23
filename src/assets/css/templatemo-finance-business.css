@@ -15,7 +15,7 @@ body {
 }
 
 p {
-    margin-bottom: 0px;
+    margin-bottom: 0;
     font-size: 14px;
     color: #666666;
     line-height: 30px;
@@ -32,7 +32,7 @@ ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 0px;
+    margin: 0;
 }
 
 a.filled-button {
@@ -414,6 +414,10 @@ header .navbar {
 
 .Modern-Slider .item-3 .img-fill {
     background-image: url(../images/banners/banner_three.jpg);
+}
+
+.Modern-Slider .item-4 .img-fill {
+    background-image: url(../images/banners/banner_four.jpg);
 }
 
 .NextArrow {
@@ -1459,6 +1463,6 @@ footer .contact-form button.filled-button:hover {
 }
 
 .logo-image {
-    width: 280px;
-    height: 250px;
+    width: 120px;
+    height: 100px;
 }

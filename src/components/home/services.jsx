@@ -1,3 +1,7 @@
+import ServiceImageOne from "../../assets/images/services/ANDT.jpg";
+import ServiceImageTwo from "../../assets/images/services/OCTG.jpg";
+import ServiceImageThree from "../../assets/images/services/Lifting.jpg";
+import ServiceImageFour from "../../assets/images/services/Integrity.jpg";
 
 
 export default function () {
@@ -13,9 +17,9 @@ export default function () {
                             <span>What we do at Cedar Company Limited.</span>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-3">
                         <div className="service-item">
-                            <img src="assets/images/service_01.jpg" alt="" />
+                            <img src={ServiceImageFour} alt="" />
                             <div className="down-content">
                                 <h4>Integrity Management</h4>
                                 <p>
@@ -30,9 +34,9 @@ export default function () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-3">
                         <div className="service-item">
-                            <img src="assets/images/service_02.jpg" alt="" />
+                            <img src={ServiceImageOne} alt="" />
                             <div className="down-content">
                                 <h4>Advanced NDT</h4>
                                 <p>
@@ -47,9 +51,9 @@ export default function () {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-3">
                         <div className="service-item">
-                            <img src="assets/images/service_03.jpg" alt="" />
+                            <img src={ServiceImageTwo} alt="" />
                             <div className="down-content">
                                 <h4>OCTG Inspection Services</h4>
                                 <p>
@@ -64,6 +68,25 @@ export default function () {
                             </div>
                         </div>
                     </div>
+
+                    <div className="col-md-3">
+                        <div className="service-item">
+                            <img src={ServiceImageThree} alt="" />
+                            <div className="down-content">
+                                <h4>OCTG Inspection Services</h4>
+                                <p>
+                                    To expand on our service, we offer tubular inspections
+                                    and thread/equipment inspections according to DS-1APIMLNS2
+                                    level and client specification of OCTG Inspections. Our
+                                    Solution for...
+                                </p>
+                                <a href="" className="filled-button">
+                                    Read More
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

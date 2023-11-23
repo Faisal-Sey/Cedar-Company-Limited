@@ -9,7 +9,7 @@ export default function () {
         autoplay: true,
         autoplaySpeed: 15000,
         speed: 600,
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 1,
         pauseOnHover: false,
         dots: true,
