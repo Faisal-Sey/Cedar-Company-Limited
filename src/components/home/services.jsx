@@ -73,12 +73,12 @@ export default function () {
                         <div className="service-item">
                             <img src={ServiceImageThree} alt="" />
                             <div className="down-content">
-                                <h4>OCTG Inspection Services</h4>
+                                <h4>Lifting Inspection</h4>
                                 <p>
-                                    To expand on our service, we offer tubular inspections
-                                    and thread/equipment inspections according to DS-1, API, MLN, S2
-                                    level and client specification of OCTG Inspections. Our
-                                    Solution for...
+                                    Any lifting and hard equipment should be checked
+                                    when installed and periodically thereafter. If
+                                    this regular check is not done, they can be source
+                                    of accident...
                                 </p>
                                 <a href="" className="filled-button">
                                     Read More
