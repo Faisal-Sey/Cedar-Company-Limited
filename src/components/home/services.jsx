@@ -58,7 +58,7 @@ export default function () {
                                 <h4>OCTG Inspection Services</h4>
                                 <p>
                                     To expand on our service, we offer tubular inspections
-                                    and thread/equipment inspections according to DS-1APIMLNS2
+                                    and thread/equipment inspections according to DS-1, API, ML, NS2
                                     level and client specification of OCTG Inspections. Our
                                     Solution for...
                                 </p>
@@ -76,7 +76,7 @@ export default function () {
                                 <h4>OCTG Inspection Services</h4>
                                 <p>
                                     To expand on our service, we offer tubular inspections
-                                    and thread/equipment inspections according to DS-1APIMLNS2
+                                    and thread/equipment inspections according to DS-1, API, MLN, S2
                                     level and client specification of OCTG Inspections. Our
                                     Solution for...
                                 </p>
