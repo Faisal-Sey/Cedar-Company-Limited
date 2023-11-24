@@ -1,5 +1,5 @@
-
-// import OwlCarousel from 'react-owl-carousel2';
+import CEOImage from "../../assets/images/team/ceo.jpg";
+import OperatorImage from "../../assets/images/team/operator.jpg";
 
 
 import Slider from "react-slick";
@@ -30,8 +30,7 @@ export default function () {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="section-heading">
-                            <h2>What they say <em>about us</em></h2>
-                            <span>testimonials from our greatest clients</span>
+                            <h2>Cedar Company Limited <em>(CCL)</em> Leadership</h2>
                         </div>
                     </div>
                     <div className="col-md-12">
@@ -39,39 +38,43 @@ export default function () {
                             {/*<OwlCarousel {...testimonialsOptions}>*/}
                                 <div className="testimonial-item">
                                     <div className="inner-content">
-                                        <h4>George Walker</h4>
-                                        <span>Chief Financial Analyst</span>
-                                        <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
+                                        <h4>Eric Nana Antwi-Boasiako Addo</h4>
+                                        <span>CEO / Managing Director</span>
+                                        <p>
+                                            He is a young man who have been in the inspection field for a year now
+                                            and knows what entails in that field. He has work with GPD Oilfield Alliance,
+                                            Omni energy and other companies. He is a person who pays attention to ideas
+                                            generate and greatly consider details of issues. A confident person with zeal
+                                            to achieve nothing but excellence. He is an agile Business, project scheduling
+                                            and cost control. His joy is to maximise the potential of people and
+                                            organizations. He is someone who take delight in business development,
+                                            team development and pursue sustainable growth of businesses.
+                                        </p>
+                                        <p>Contact: +233 (0) 24 626 3191</p>
+                                        <p>Email: cedarcompanylimited@gmail.com / ericnanaantwi97@gmail.com</p>
                                     </div>
-                                    <img src="http://placehold.it/60x60" alt=""/>
+                                    <img src={CEOImage} alt=""/>
                                 </div>
 
                                 <div className="testimonial-item">
                                     <div className="inner-content">
-                                        <h4>John Smith</h4>
-                                        <span>Market Specialist</span>
-                                        <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
+                                        <h4>Richard Okyere Taylor</h4>
+                                        <span>Operation Manager</span>
+                                        <p>
+                                            He has been in the inspection field since 2008. He is a man of many
+                                            languages. He speaks English, French, German, Spanish, and Italian. He
+                                            started his inspection career with NDU tuboscope and spent 8years with
+                                            them and later moved to Uniarn, GRD Oilfield Alliance, Omni Energy
+                                            respectively. He is a person who loves to motivate, support a large team
+                                            within a time-sensitive and demanding environment, including career
+                                            development plans for direct reports and resolution.
+                                        </p>
+                                        <p>Contact: +233 (0) 54 307 1604 / +233 (0) 54 279 5520</p>
+                                        <p>Email: cedarcompanylimited7@gmail.com</p>
                                     </div>
-                                    <img src="http://placehold.it/60x60" alt=""/>
+                                    <img src={OperatorImage} alt=""/>
                                 </div>
 
-                                <div className="testimonial-item">
-                                    <div className="inner-content">
-                                        <h4>David Wood</h4>
-                                        <span>Chief Accountant</span>
-                                        <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
-                                    </div>
-                                    <img src="http://placehold.it/60x60" alt=""/>
-                                </div>
-
-                                <div className="testimonial-item">
-                                    <div className="inner-content">
-                                        <h4>Andrew Boom</h4>
-                                        <span>Marketing Head</span>
-                                        <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
-                                    </div>
-                                    <img src="http://placehold.it/60x60" alt=""/>
-                                </div>
                             {/*</OwlCarousel>*/}
 
                         </Slider>

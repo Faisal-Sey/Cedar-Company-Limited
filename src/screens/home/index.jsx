@@ -7,7 +7,6 @@ import Services from "../../components/home/services.jsx";
 import FunFacts from "../../components/home/funFacts.jsx";
 import MoreInfo from "../../components/home/moreInfo.jsx";
 import CallbackForm from "../../components/home/callbackForm.jsx";
-import Partners from "../../components/home/partners.jsx";
 import Footer from "../../components/common/footer.jsx";
 import Testimonials from "../../components/home/testimonials.jsx";
 
@@ -25,7 +24,7 @@ export default function () {
             <MoreInfo />
             <CallbackForm />
             <Testimonials />
-            <Partners />
+            {/*<Partners />*/}
             <Footer />
         </>
 
