@@ -121,8 +121,6 @@ a.border-button:hover {
 
 #preloader .jumper > div {
     background-color: #fff;
-    width: 10px;
-    height: 10px;
     border-radius: 100%;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
@@ -821,7 +819,7 @@ ul.slick-dots {
 }
 
 .testimonial-item img {
-    max-width: 150px;
+    max-width: 250px;
     border-radius: 50%;
     margin: 25px auto 0 auto;
 }

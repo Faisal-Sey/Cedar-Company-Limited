@@ -57,6 +57,11 @@ export default function () {
                                     <a href="#">Lifting Inspection</a>
                                 </li>
                             </ul>
+                            <br/><br/>
+                            <h4>Languages</h4>
+                            <ul className="menu-list">
+                                <p>English, Spanish, German, French, Italian.</p>
+                            </ul>
                         </div>
                         <div className="col-md-3 footer-item">
                             <h4>Additional Pages</h4>

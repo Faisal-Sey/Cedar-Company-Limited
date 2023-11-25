@@ -11,9 +11,8 @@ export default function () {
                                 Our <em>Vision</em>
                             </h2>
                             <p>
-                                Being in the fore-front of what we do, satisfying
-                                our clients, managing projects and travelling far
-                                and wide in all the activities.
+                                To be in the fore-front of what we do, satisfying our clients,
+                                managing projects and traveling far and wide in all activities we do.
                             </p>
                             <h2>
                                 Our <em>Mission</em>
