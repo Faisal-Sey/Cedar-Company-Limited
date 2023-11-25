@@ -1,4 +1,4 @@
-import Logo from "../../assets/images/logo.png";
+import Logo from "../../../assets/images/logo.png";
 
 
 export default function () {
@@ -58,7 +58,7 @@ export default function () {
                                 </li>
                             </ul>
                             <br/><br/>
-                            <h4>Languages</h4>
+                            <h4>Languages we operate with</h4>
                             <ul className="menu-list">
                                 <p>English, Spanish, German, French, Italian.</p>
                             </ul>

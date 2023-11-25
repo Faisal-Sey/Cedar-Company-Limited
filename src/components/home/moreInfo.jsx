@@ -1,4 +1,5 @@
 import MoreInfoImage from "../../assets/images/more_info/info_img.jpg";
+import {Link} from "react-router-dom";
 
 
 export default function () {
@@ -32,9 +33,9 @@ export default function () {
                                             ensuring that project assets are prepared in compliance with relevant
                                             standards...
                                         </p>
-                                        <a href="#" className="filled-button">
+                                        <Link to={'/about'} className="filled-button">
                                             Read More
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>
