@@ -1463,3 +1463,8 @@ footer .contact-form button.filled-button:hover {
     width: 120px;
     height: 100px;
 }
+
+.services-content ul {
+    list-style: disc inside;
+    margin-left: 20px;
+}

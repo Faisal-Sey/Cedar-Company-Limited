@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 
 
 export default function () {
+    window.scrollTo(0, 0);
     return (
         <>
             <footer>
@@ -46,16 +47,16 @@ export default function () {
                             <h4>Services</h4>
                             <ul className="menu-list">
                                 <li>
-                                    <a href="#">Integrity Management</a>
+                                    <Link to={"/services"}>Integrity Management</Link>
                                 </li>
                                 <li>
-                                    <a href="#">Advanced NDT</a>
+                                    <Link to={"/services"}>Advanced NDT</Link>
                                 </li>
                                 <li>
-                                    <a href="#">OCTG Inspection Services</a>
+                                    <Link to={"/services"}>OCTG Inspection Services</Link>
                                 </li>
                                 <li>
-                                    <a href="#">Lifting Inspection</a>
+                                    <Link to={"/services"}>Lifting Inspection</Link>
                                 </li>
                             </ul>
                             <br/><br/>

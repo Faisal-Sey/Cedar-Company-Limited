@@ -32,7 +32,7 @@ export default function () {
                     <div className="collapse navbar-collapse" id="navbarResponsive">
                         <ul className="navbar-nav ml-auto">
                             {Object.entries(links).map((link) =>
-                                <li className={`nav-item ${route.pathname === link[0] && 'active'}`}>
+                                <li className={`nav-item ${route.pathname === link[0] && 'active'}`} key={link[0]}>
                                     <Link to={link[0]} className="nav-link">
                                         {link[1]}
                                         {" "}

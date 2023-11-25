@@ -2,6 +2,7 @@ import ServiceImageOne from "../../assets/images/services/ANDT.jpg";
 import ServiceImageTwo from "../../assets/images/services/OCTG.jpg";
 import ServiceImageThree from "../../assets/images/services/Lifting.jpg";
 import ServiceImageFour from "../../assets/images/services/Integrity.jpg";
+import {Link} from "react-router-dom";
 
 
 export default function () {
@@ -28,9 +29,9 @@ export default function () {
                                     improved safety, reduced risks and costs. Our Integrity and inspection
                                     experts...
                                 </p>
-                                <a href="" className="filled-button">
+                                <Link to={"/services"} className="filled-button">
                                     Read More
-                                </a>
+                                </Link>
                             </div>
                         </div>
                     </div>
@@ -45,9 +46,9 @@ export default function () {
                                     to identify and prevent flaws and increase reliability. Our
                                     highly-skilled team...
                                 </p>
-                                <a href="" className="filled-button">
+                                <Link to={"/services"} className="filled-button">
                                     Read More
-                                </a>
+                                </Link>
                             </div>
                         </div>
                     </div>
@@ -62,9 +63,9 @@ export default function () {
                                     level and client specification of OCTG Inspections. Our
                                     Solution for...
                                 </p>
-                                <a href="" className="filled-button">
+                                <Link to={"/services"} className="filled-button">
                                     Read More
-                                </a>
+                                </Link>
                             </div>
                         </div>
                     </div>
@@ -80,9 +81,9 @@ export default function () {
                                     this regular check is not done, they can be source
                                     of accident...
                                 </p>
-                                <a href="" className="filled-button">
+                                <Link to={"/services"} className="filled-button">
                                     Read More
-                                </a>
+                                </Link>
                             </div>
                         </div>
                     </div>
