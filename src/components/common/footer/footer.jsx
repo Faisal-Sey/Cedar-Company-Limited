@@ -1,4 +1,5 @@
 import Logo from "../../../assets/images/logo.png";
+import {Link} from "react-router-dom";
 
 
 export default function () {
@@ -67,7 +68,7 @@ export default function () {
                             <h4>Additional Pages</h4>
                             <ul className="menu-list">
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <Link to={'/about'}>About Us</Link>
                                 </li>
                                 <li>
                                     <a href="#">How We Work</a>
