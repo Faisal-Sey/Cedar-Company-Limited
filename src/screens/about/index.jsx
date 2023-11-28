@@ -6,7 +6,7 @@ import OperatorImage from "../../assets/images/team/operator.jpg";
 
 
 export default function () {
-    window.scrollTo(0, 0);
+    // window.scrollTo(0, 0);
     return (
         <PageLayout>
             <>
@@ -106,12 +106,12 @@ export default function () {
                                     <img src={OperatorImage} alt="" />
                                     <div className="down-content">
                                         <h4>Richard Okyere Taylor</h4>
-                                        <span>Operation Manager</span>
+                                        <span>Operations Manager</span>
                                         <p>
                                             He is a vibrant Ghana man who lived most of is youthful life in Europe.
                                             He is a man of many languages. He speaks English, French, German, Spanish
                                             and italian. He was introduced to the oil inspection field since 2008.
-                                            He started his inspection career with National Oil Varco (NOV) and
+                                            He started his inspection career with National Oil Varco (NOV) Turboscop and
                                             spent 8years with them and later moved to Unicorn, GRO Oilfield Alliance
                                             and Omni energy respectively.He has work on both offshore and onshore
                                             with different rigs like Transocean, Olympia, and etc.

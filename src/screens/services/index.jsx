@@ -75,7 +75,7 @@ export default function () {
                                         <br/><br/>
                                         <ol>
                                             <li>Magnetic Particle Inspection (MPI)</li>
-                                            <li>Dye Penetrant Inspection (DPT)</li>
+                                            <li>Dye Penetrant Inspection (DPI)</li>
                                             <li>Close Visual Inspection (CVI)</li>
                                             <li>Ultrasonic tacking (UT) - Wall thickness and Shear wave.</li>
                                         </ol>
