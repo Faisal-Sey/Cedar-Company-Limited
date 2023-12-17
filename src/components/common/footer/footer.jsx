@@ -102,7 +102,7 @@ export default function () {
                                 </li>
                                 <li>
                                     <span>Email Address:</span><br />
-                                    <a>cedarcompanylimited7@gmail.com</a>
+                                    <a>ericnanaantwi97@cedarcompanylimited.com</a>
                                 </li>
                             </ul>
                         </div>

@@ -97,7 +97,7 @@ export default function () {
                                             and pursue sustainable growth of businesses .
                                         </p>
                                         <p>Contact: +233 (0) 24 626 3191 / +233 (0) 50 062 9069</p>
-                                        <p>Email: cedarcompanylimited7@gmail.com / ericnanaantwi97@gmail.com</p>
+                                        <p>Email: ericnanaantwi97@cedarcompanylimited.com / ericnanaantwi97@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@ export default function () {
                                             plans for direct reports and resolutions.
                                         </p>
                                         <p>Contact: +233 (0) 54 307 1604 / +233 (0) 54 279 5520</p>
-                                        <p>Email: cedarcompanylimited7@gmail.com</p>
+                                        <p>Email: ericnanaantwi97@cedarcompanylimited.com</p>
                                     </div>
                                 </div>
                             </div>

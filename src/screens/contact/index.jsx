@@ -8,7 +8,7 @@ export default function () {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const email = "cedarcompanylimited7@gmail.com"
+        const email = "ericnanaantwi97@cedarcompanylimited.com"
 
         window.location.href = `mailto:${email}
         ?subject=${encodeURIComponent(subjectRef.current.value)}
@@ -44,17 +44,17 @@ export default function () {
                                 <a href="#">+233 (0) 24 62 63191</a>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-md-5">
                             <div className="contact-item">
                                 <i className="fa fa-envelope" />
                                 <h4>Email</h4>
                                 <p>
                                     Reach to us via our email address
                                 </p>
-                                <a href="#">cedarcompanylimited7@gmail.com</a>
+                                <a href="#">ericnanaantwi97@cedarcompanylimited.com</a>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-md-3">
                             <div className="contact-item">
                                 <i className="fa fa-map-marker" />
                                 <h4>Location</h4>
