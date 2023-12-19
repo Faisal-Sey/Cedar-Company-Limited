@@ -31,17 +31,17 @@ export default function () {
                                             <div className="right-content">
                                                 <span>our solid background on inspection</span>
                                                 <h2>
-                                                    Get to know about <em>Cedar Company Limited (CCL)</em>
+                                                    Get to know about <em>Cedar Inspection Ventures (CIV)</em>
                                                 </h2>
                                                 <p>
                                                     Our experience in inspection, together with our extensive knowledge
-                                                    of internation standards guarantees that our clients have access to
+                                                    of international standards guarantees that our clients have access to
                                                     the best personnel and techniques in the respective inspection disciplines.
                                                     Our inspectors are equipped with modern equipment and operations are
                                                     coordinated and reported via our web-based asset management platform.
                                                     <br />
                                                     <br />
-                                                    CCL believe that we form part of your front line risk management resource
+                                                    CIV believe that we form part of your front line risk management resource
                                                     ensuring that project assets are prepared in compliance with relevant
                                                     standards. Our team comprises of extensively qualified, safety focused
                                                     inspectors who are highly mobile and at home in their operating
@@ -70,7 +70,7 @@ export default function () {
                                     <h2>
                                         Our Leading <em>members</em>
                                     </h2>
-                                    <span>Brief background of the leadership of Cedar Company Limited (CCL)</span>
+                                    <span>Brief background of the leadership of Cedar Inspection Ventures (CIV)</span>
                                 </div>
                             </div>
                             <div className="col-md-6">
@@ -97,7 +97,7 @@ export default function () {
                                             and pursue sustainable growth of businesses .
                                         </p>
                                         <p>Contact: +233 (0) 24 626 3191 / +233 (0) 50 062 9069</p>
-                                        <p>Email: ericnanaantwi97@cedarcompanylimited.com / ericnanaantwi97@gmail.com</p>
+                                        <p>Email: ericnanaantwi97@cedarinspectionventures.com / ericnanaantwi97@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@ export default function () {
                                             plans for direct reports and resolutions.
                                         </p>
                                         <p>Contact: +233 (0) 54 307 1604 / +233 (0) 54 279 5520</p>
-                                        <p>Email: ericnanaantwi97@cedarcompanylimited.com</p>
+                                        <p>Email: ericnanaantwi97@cedarinspectionventures.com</p>
                                     </div>
                                 </div>
                             </div>

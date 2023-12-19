@@ -30,7 +30,7 @@ export default function () {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="section-heading">
-                            <h2>Cedar Company Limited <em>(CCL)</em> Leadership</h2>
+                            <h2>Cedar Inspection Ventures <em>(CIV)</em> Leadership</h2>
                         </div>
                     </div>
                     <div className="col-md-12">
@@ -58,7 +58,7 @@ export default function () {
                                             and pursue sustainable growth of businesses .
                                         </p>
                                         <p>Contact: +233 (0) 24 626 3191 / +233 (0) 50 062 9069</p>
-                                        <p>Email: ericnanaantwi97@cedarcompanylimited.com / ericnanaantwi97@gmail.com</p>
+                                        <p>Email: ericnanaantwi97@cedarinspectionventures.com / ericnanaantwi97@gmail.com</p>
                                     </div>
                                     <img src={CEOImage} alt=""/>
                                 </div>
@@ -80,7 +80,7 @@ export default function () {
                                             plans for direct reports and resolutions.
                                         </p>
                                         <p>Contact: +233 (0) 54 307 1604 / +233 (0) 54 279 5520</p>
-                                        <p>Email: richard.okyere@cedarcompanylimited.com</p>
+                                        <p>Email: richard.okyere@cedarinspectionventures.com</p>
                                     </div>
                                     <img src={OperatorImage} alt=""/>
                                 </div>

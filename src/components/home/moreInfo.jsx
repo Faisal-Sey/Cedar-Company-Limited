@@ -29,7 +29,7 @@ export default function () {
                                             coordinated and reported via our web-based asset management platform.
                                             <br />
                                             <br />
-                                            CCL believe that we form part of your front line risk management resource
+                                            CIV believe that we form part of your front line risk management resource
                                             ensuring that project assets are prepared in compliance with relevant
                                             standards...
                                         </p>

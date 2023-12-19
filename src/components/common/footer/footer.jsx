@@ -90,7 +90,7 @@ export default function () {
                             <ul className="menu-list">
                                 <li>
                                     <span>Location:</span><br/>
-                                    <a>Takoradi-West Tanakrom,
+                                    <a>Takoradi-West Tanokrom,
                                         Western Region-Ghana, West Africa</a>
                                 </li>
                                 <li>
@@ -102,7 +102,7 @@ export default function () {
                                 </li>
                                 <li>
                                     <span>Email Address:</span><br />
-                                    <a>ericnanaantwi97@cedarcompanylimited.com</a>
+                                    <a>ericnanaantwi97@cedarinspectionventures.com</a>
                                 </li>
                             </ul>
                         </div>
@@ -114,7 +114,7 @@ export default function () {
                     <div className="row">
                         <div className="col-md-12">
                             <p>
-                                Copyright © {new Date().getFullYear()} Cedar Company Ltd
+                                Copyright © {new Date().getFullYear()} Cedar Inspection Ventures
                             </p>
                         </div>
                     </div>

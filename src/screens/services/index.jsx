@@ -110,7 +110,7 @@ export default function () {
                                         Any lifting and hand equipment should be checked
                                         when installed and periodically thereafter. If
                                         this regular check is not done, they can be source
-                                        of accident at work. CCL team lead the following inspections in accordance
+                                        of accident at work. CIV team lead the following inspections in accordance
                                         with internation regulations.
                                         <ol>
                                             <li>Overhead cranes inspection</li>

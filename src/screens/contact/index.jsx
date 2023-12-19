@@ -8,7 +8,7 @@ export default function () {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const email = "ericnanaantwi97@cedarcompanylimited.com"
+        const email = "ericnanaantwi97@cedarinspectionventures.com"
 
         window.location.href = `mailto:${email}
         ?subject=${encodeURIComponent(subjectRef.current.value)}
@@ -51,7 +51,7 @@ export default function () {
                                 <p>
                                     Reach to us via our email address
                                 </p>
-                                <a href="#">ericnanaantwi97@cedarcompanylimited.com</a>
+                                <a href="#">ericnanaantwi97@cedarinspectionventures.com</a>
                             </div>
                         </div>
                         <div className="col-md-3">
@@ -59,7 +59,7 @@ export default function () {
                                 <i className="fa fa-map-marker" />
                                 <h4>Location</h4>
                                 <p>
-                                    West-Tanakrom, Western region
+                                    West-Tanokrom, Western region
                                     <br />
                                     Ghana, West Africa
                                 </p>
