@@ -16,7 +16,8 @@ export default function () {
                             <li>
                                 <a href="#">
                                     <i className="fa fa-phone" />
-                                    +233 (0) 24 626 3191
+                                    +233 (0) 24 626 3191,
+                                    +233 (0) 50 062 9069
                                 </a>
                             </li>
                         </ul>
