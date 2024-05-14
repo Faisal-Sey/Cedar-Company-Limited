@@ -104,6 +104,7 @@ export default function () {
                                 <li>
                                     <span>Email Address:</span><br />
                                     <a>ericnanaantwi97@cedarinspectionventures.com</a>
+                                    <a>cedarinspectionventures@gmail.com</a>
                                 </li>
                             </ul>
                         </div>

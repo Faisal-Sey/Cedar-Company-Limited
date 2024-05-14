@@ -46,7 +46,7 @@ export default function () {
                                                     standards. Our team comprises of extensively qualified, safety focused
                                                     inspectors who are highly mobile and at home in their operating
                                                     environments. Our inspectors are highly experienced and fully qualified
-                                                    with the international Standards of ISO, ASNT and LEEA.
+                                                    with the international Standards of ISO, ASNT, ASME, LEED and etc.
                                                 </p>
                                             </div>
                                         </div>

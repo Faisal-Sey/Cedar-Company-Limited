@@ -23,7 +23,7 @@ export default function () {
                                         </h2>
                                         <p>
                                             Our experience in inspection, together with our extensive knowledge
-                                            of internation standards guarantees that our clients have access to
+                                            of international standards guarantees that our clients have access to
                                             the best personnel and techniques in the respective inspection disciplines.
                                             Our inspectors are equipped with modern equipment and operations are
                                             coordinated and reported via our web-based asset management platform.
