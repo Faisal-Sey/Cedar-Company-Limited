@@ -6,7 +6,7 @@ import ServiceImageFour from "../../assets/images/services/Integrity.jpg";
 import CallbackForm from "../../components/home/callbackForm.jsx";
 
 
-export default function () {
+export default function Services () {
     return (
         <PageLayout>
             <div className="page-heading header-text">

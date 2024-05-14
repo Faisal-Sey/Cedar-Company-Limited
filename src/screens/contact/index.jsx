@@ -51,7 +51,8 @@ export default function () {
                                 <p>
                                     Reach to us via our email address
                                 </p>
-                                <a href="#">ericnanaantwi97@cedarinspectionventures.com</a>
+                                <a href="#">ericnanaantwi97@cedarinspectionventures.com</a><br/>
+                                <a href="#">cedarinspectionventures@gmail.com</a>
                             </div>
                         </div>
                         <div className="col-md-3">
@@ -60,6 +61,8 @@ export default function () {
                                 <h4>Location</h4>
                                 <p>
                                     West-Tanokrom, Western region
+                                    <br />
+                                    Tema Community 1, Greater Accra Region
                                     <br />
                                     Ghana, West Africa
                                 </p>
