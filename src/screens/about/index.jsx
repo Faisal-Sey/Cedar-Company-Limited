@@ -2,7 +2,7 @@ import PageLayout from "../../components/common/pageLayout/index.jsx";
 import AboutImage from "../../assets/images/banners/banner_three.jpg";
 import FunFacts from "../../components/home/funFacts.jsx";
 import CEOImage from "../../assets/images/team/ceo.jpg";
-import OperatorImage from "../../assets/images/team/operator.jpg";
+import TechnicalManagerImage from "../../assets/images/team/tech_manager.jpg";
 
 
 export default function () {
@@ -103,25 +103,41 @@ export default function () {
                             </div>
                             <div className="col-md-6">
                                 <div className="team-item">
-                                    <img src={OperatorImage} alt="" />
+                                    <img src={TechnicalManagerImage} alt="" />
                                     <div className="down-content">
-                                        <h4>Richard Okyere Taylor</h4>
-                                        <span>Operations Manager</span>
+                                        <h4>Mohamed Abdelghani Rabie</h4>
+                                        <span>Technical Manager</span>
                                         <p>
-                                            He is a vibrant Ghana man who lived most of is youthful life in Europe.
-                                            He is a man of many languages. He speaks English, French, German, Spanish
-                                            and italian. He was introduced to the oil inspection field since 2008.
-                                            He started his inspection career with National Oil Varco (NOV) Turboscop and
-                                            spent 8years with them and later moved to Unicorn, GRO Oilfield Alliance
-                                            and Omni energy respectively.He has work on both offshore and onshore
-                                            with different rigs like Transocean, Olympia, and etc.
-                                            He is a person who love to motivate, support a large team within a
-                                            time-sensitive and demanding environment, including career development
-                                            plans for direct reports and resolutions.
+                                            He is Egyptian Metallirgy Engineer who has been in oil field since 20 years ago
+                                            until now with adequated knowledge on non destructive test and oil county
+                                            tubular goods ( OCTG) , Lifting inspection , new manufacture welding in onshore
+                                            / offshore rigs for drilling , service , owner company's in north africa with
+                                            various inspection company Nov tuboscope, STC , Scope petroleum company Iraq .
+                                            He is NDT Level III inspector and has Asnt No 333744 Level iii MT , PT , UT
+                                            methods and can create and develop procedures , SOP , and certified , training
+                                            inspectors
                                         </p>
-                                        <p>Contact: +233 (0) 54 307 1604 / +233 (0) 54 279 5520</p>
-                                        <p>Email: ericnanaantwi97@cedarinspectionventures.com</p>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-6 mt-5">
+                            <div className="team-item">
+                                <div className="down-content">
+                                    <h4>Charles A. Okyere</h4>
+                                    <span>Operations Manager</span>
+                                    <p>
+                                        He is a vibrant Ghana man who lived most of is youthful life in Europe.
+                                        He is a man of many languages. He speaks English, French, German, Spanish
+                                        and italian. He was introduced to the oil inspection field since 2008.
+                                        He started his inspection career with National Oil Varco (NOV) Turboscop and
+                                        spent 8years with them and later moved to Unicorn, GRO Oilfield Alliance
+                                        and Omni energy respectively.He has work on both offshore and onshore
+                                        with different rigs like Transocean, Olympia, and etc.
+                                        He is a person who love to motivate, support a large team within a
+                                        time-sensitive and demanding environment, including career development
+                                        plans for direct reports and resolutions.
+                                    </p>
                                 </div>
                             </div>
                         </div>
