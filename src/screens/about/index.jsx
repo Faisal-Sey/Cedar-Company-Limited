@@ -96,8 +96,6 @@ export default function () {
                                             He is someone who take delight in business development, team development
                                             and pursue sustainable growth of businesses .
                                         </p>
-                                        <p>Contact: +233 (0) 24 626 3191 / +233 (0) 50 062 9069</p>
-                                        <p>Email: ericnanaantwi97@cedarinspectionventures.com / ericnanaantwi97@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
