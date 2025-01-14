@@ -32,19 +32,45 @@ export default function () {
                                                     Get to know about <em>Cedar Inspection Ventures (CIV)</em>
                                                 </h2>
                                                 <p>
-                                                    Our experience in inspection, together with our extensive knowledge
-                                                    of international standards guarantees that our clients have access to
-                                                    the best personnel and techniques in the respective inspection disciplines.
-                                                    Our inspectors are equipped with modern equipment and operations are
-                                                    coordinated and reported via our web-based asset management platform.
-                                                    <br />
-                                                    <br />
-                                                    CIV believe that we form part of your front line risk management resource
-                                                    ensuring that project assets are prepared in compliance with relevant
-                                                    standards. Our team comprises of extensively qualified, safety focused
-                                                    inspectors who are highly mobile and at home in their operating
-                                                    environments. Our inspectors are highly experienced and fully qualified
-                                                    with the international Standards of ISO, ASNT, ASME, LEED and etc.
+                                                    Our highest priority at CEDAR INSPECTION VENTURES LIMITED(CIV)
+                                                    is the safety of our employees, clients, and other contractors.
+                                                    We are committed to safety excellence and strive daily for zero
+                                                    injuries and incidents.
+                                                    <br/>
+                                                    <br/>
+                                                    CIV is committed to conducting our business in a manner that
+                                                    protects the environment and the health and safety of our employees
+                                                    and the public.
+                                                    <br/>
+                                                    <br/>
+                                                    To meet this commitment, CIV maintains management systems designed
+                                                    to ensure compliance with all applicable laws, regulations and
+                                                    internal requirements, as well as to facilitate the continuous
+                                                    improvement of our processes, products, and personnel.
+                                                    CIV will set an example of leadership in the field of health,
+                                                    safety and environmental management, and will promote resource
+                                                    conservation, the reduction of waste and pollution prevention.
+                                                    <br/>
+                                                    <br/>
+                                                    CIV will work with our suppliers, contractors and customers to
+                                                    promote responsible HSE&S practices. We will work with the
+                                                    government, industry, and public in support of laws, regulations,
+                                                    standards and other programs that safeguard the community,
+                                                    workplace and the environment. We will also support education
+                                                    and research that promotes and advances HSE&S progress and
+                                                    knowledge for the common good.
+                                                    CIV will maintain communication and dialogue with the public
+                                                    regarding workplace HSE&S issues and will communicate with our
+                                                    stakeholders regarding health or environmental risks related to
+                                                    the services we provide. We will report publicly on our progress and
+                                                    on our overall impact.
+                                                    <br/>
+                                                    <br/>
+                                                    Signed;<br/>
+                                                    ADDO ERIC NANA ANTWI-BOASIAKO<br/>
+                                                    (chief Execrative Officer)
+                                                    <br/>
+                                                    <br/>
                                                 </p>
                                             </div>
                                         </div>

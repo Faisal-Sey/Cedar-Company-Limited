@@ -90,7 +90,7 @@ export default function () {
                             <ul className="menu-list">
                                 <li>
                                     <span>Location:</span><br/>
-                                    <a>Takoradi-West Tanokrom Western Region<br/>
+                                    <a>
                                         Tema Community 1, Greater Accra<br/>
                                         Ghana, West Africa</a>
                                 </li>
