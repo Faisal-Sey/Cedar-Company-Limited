@@ -1,7 +1,3 @@
-import CEOImage from "../../assets/images/team/ceo.jpg";
-import TechManagerImage from "../../assets/images/team/tech_manager.jpg";
-
-
 import Slider from "react-slick";
 
 export default function () {
@@ -38,34 +34,26 @@ export default function () {
                             {/*<OwlCarousel {...testimonialsOptions}>*/}
                             <div className="testimonial-item">
                                 <div className="inner-content">
-                                    <h4>Eric Nana Antwi-Boasiako Addo</h4>
+                                    <h4>Nana Antwi-Boasiako</h4>
                                     <span>CEO / Managing Director</span>
                                     <p>
-                                        He is a young Ghanaian man who have been in the oil inspection
-                                        field for years now and knows what entails in that field.
-                                        He has work with GRO Oilfield Alliance,Omni energy and a
-                                        freelance on different kinds of projects for different companies.
-                                        In a year 2023 he was part of NDT team which perform NDT on Fabrication of
-                                        splitter manifold and suction pile and the project is for Tullow and
-                                        contracted by Trendetter and Wayoe Engineering and Construction.
-                                        He has adequate knowledge on Non-destructive Testing(NDT) and Oil County
-                                        Tubular Goods(OCTG) inspection.He is a person who pays attention to ideas
-                                        generate and greatly consider details of issues. Antwi-Boasiako is a
-                                        confident person with zeal to achieve nothing but excellence.
-                                        He is agile to Business , project scheduling and cost control.
-                                        His joy is to maximize the potential of people and organizations.
-                                        He is someone who take delight in business development, team development
-                                        and pursue sustainable growth of businesses .
+                                        He is a young Ghanaian man who have been in oil inspection field for
+                                        years and  Knows what entails in that field. He has adequate knowledge
+                                        on Non-Destructive Testing (NDT) and Oil County Tubular Goods (OCTG)
+                                        inspection. He is a person who pays attention to ideas generate and
+                                        greatly consider details of issues.He is agile to Business,
+                                        Project scheduling and cost control. Antwi-Boasiako delight in
+                                        business development, team development and purse sustainable
+                                        growth of businesses.
                                     </p>
                                 </div>
-                                <img src={CEOImage} alt=""/>
                             </div>
                             <div className="testimonial-item">
                                 <div className="inner-content">
-                                    <h4>Mohamed Abdelghani Rabie</h4>
-                                    <span>Technical Manager</span>
+                                    <h4>Mohammed Abdelhahim Rabie</h4>
+                                    <span>Technical Manager/ NDT Consultant</span>
                                     <p>
-                                        He is Egyptian Metallirgy Engineer who has been in oil field since 20 years ago
+                                        He is Egyptian Metallurgy Engineer who has been in oil field since 20 years ago
                                         until now with adequated knowledge on non destructive test and oil county
                                         tubular goods ( OCTG) , Lifting inspection , new manufacture welding in onshore
                                         / offshore rigs for drilling , service , owner company's in north africa with
@@ -75,23 +63,18 @@ export default function () {
                                         inspectors
                                     </p>
                                 </div>
-                                <img src={TechManagerImage} alt=""/>
                             </div>
                             <div className="testimonial-item">
                                 <div className="inner-content">
                                     <h4>Charles A. Okyere</h4>
                                     <span>Operations Manager</span>
                                     <p>
-                                        He is a vibrant Ghana man who lived most of is youthful life in Europe.
-                                        He is a man of many languages. He speaks English, French, German, Spanish
-                                        and italian. He was introduced to the oil inspection field since 2008.
-                                        He started his inspection career with National Oil Varco (NOV) Turboscop and
-                                        spent 8years with them and later moved to Unicorn, GRO Oilfield Alliance
-                                        and Omni energy respectively.He has work on both offshore and onshore
-                                        with different rigs like Transocean, Olympia, and etc.
-                                        He is a person who love to motivate, support a large team within a
-                                        time-sensitive and demanding environment, including career development
-                                        plans for direct reports and resolutions.
+                                        He is a vibrant Ghanaian man who have been in oil inspection field since 2009.
+                                        He has work both offshore and onshore in different countries.
+                                        He is a man of man languages (English, French, German, Spanish, Italian,
+                                        Greek , Ga, Fante , Nzema). Okyere support a large team within a
+                                        time - sensitive and demanding environment,including career
+                                        development plans for direct reports and resolutions.
                                     </p>
                                 </div>
                             </div>

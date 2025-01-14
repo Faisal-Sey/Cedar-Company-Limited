@@ -51,7 +51,6 @@ export default function () {
                                 <p>
                                     Reach to us via our email address
                                 </p>
-                                <a href="#">ericnanaantwi97@cedarinspectionventures.com</a><br/>
                                 <a href="#">cedarinspectionventures@gmail.com</a>
                             </div>
                         </div>
