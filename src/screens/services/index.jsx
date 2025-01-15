@@ -154,9 +154,9 @@ export default function Services () {
                                     <p>
                                         For our 3rd party inspection services we provide:
                                         <ol>
-                                            <li>FOCUS :product -oriented,identification of defects.</li>
-                                            <li>ACTIVITIES :inspection testing and measurements.</li>
-                                            <li>OBJECTIVE:Ensure final product meet quality standards</li>
+                                            <li>FOCUS: Product-oriented,identification of defects.</li>
+                                            <li>ACTIVITIES: Inspection testing and measurements.</li>
+                                            <li>OBJECTIVE: Ensure final product meet quality standards</li>
                                             <li>DOCUMENTATION: Inspection reports and testing results.</li>
                                         </ol>
                                     </p>
