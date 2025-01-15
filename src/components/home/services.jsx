@@ -15,7 +15,7 @@ export default function () {
                             <h2>
                                 Our <em>Services</em>
                             </h2>
-                            <span>What we do at Cedar Inspection Ventures.</span>
+                            <span>What we do at Cedar Inspection Ventures Limited.</span>
                         </div>
                     </div>
                     <div className="col-md-3">

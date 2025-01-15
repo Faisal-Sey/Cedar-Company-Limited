@@ -26,7 +26,7 @@ export default function () {
                 <div className="row">
                     <div className="col-md-12">
                         <div className="section-heading">
-                            <h2>Cedar Inspection Ventures <em>(CIV)</em> Leadership</h2>
+                            <h2>Cedar Inspection Ventures <em>(CIV)</em> Limited Leadership</h2>
                         </div>
                     </div>
                     <div className="col-md-12">

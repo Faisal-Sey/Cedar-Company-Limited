@@ -58,6 +58,21 @@ export default function () {
                                 <li>
                                     <Link to={"/services"}>Lifting Inspection</Link>
                                 </li>
+                                <li>
+                                    <Link to={"/services"}>Third Party Inspection</Link>
+                                </li>
+                                <li>
+                                    <Link to={"/services"}>Factory Inspection</Link>
+                                </li>
+                                <li>
+                                    <Link to={"/services"}>Boiler Inspection</Link>
+                                </li>
+                                <li>
+                                    <Link to={"/services"}>Valve and Pressure Gauge Inspection and Installation</Link>
+                                </li>
+                                <li>
+                                    <Link to={"/services"}>Coating and Spraying</Link>
+                                </li>
                             </ul>
                             <br/><br/>
                             <h4>Languages we operate with</h4>
@@ -115,7 +130,7 @@ export default function () {
                     <div className="row">
                         <div className="col-md-12">
                             <p>
-                                Copyright © {new Date().getFullYear()} Cedar Inspection Ventures
+                                Copyright © {new Date().getFullYear()} Cedar Inspection Ventures Limited
                             </p>
                         </div>
                     </div>

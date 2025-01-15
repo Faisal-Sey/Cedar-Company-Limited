@@ -26,22 +26,49 @@ export default function Services () {
                             <ul>
                                 <li>
                                     <a href="#tabs-1">
-                                        Integrity Management <i className="fa fa-angle-right" />
+                                        Integrity Management <i className="fa fa-angle-right"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#tabs-2">
-                                        Advanced NDT <i className="fa fa-angle-right" />
+                                        Advanced NDT <i className="fa fa-angle-right"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#tabs-3">
-                                        OCTG Inspection Services <i className="fa fa-angle-right" />
+                                        OCTG Inspection Services <i className="fa fa-angle-right"/>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#tabs-4">
-                                        Lifting Inspection <i className="fa fa-angle-right" />
+                                        Lifting Inspection <i className="fa fa-angle-right"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#tabs-5">
+                                        Third Party Inspection <i className="fa fa-angle-right"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#tabs-6">
+                                        Factory Inspection <i className="fa fa-angle-right"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Boiler Inspection <i className="fa fa-angle-right"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Valve and Pressure Gauge Inspection and Installation <i
+                                        className="fa fa-angle-right"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Coating and Spraying <i
+                                        className="fa fa-angle-right"/>
                                     </a>
                                 </li>
                             </ul>
@@ -49,7 +76,7 @@ export default function Services () {
                         <div className="col-md-8 services-content">
                             <section className="tabs-content">
                                 <article id="tabs-1" className="mb-5">
-                                    <img src={ServiceImageFour} alt="" />
+                                    <img src={ServiceImageFour} alt=""/>
                                     <h4>Integrity Management</h4>
                                     <p>
                                         Clients are seeking benefits that can be provided by modernising
@@ -63,7 +90,7 @@ export default function Services () {
                                     </p>
                                 </article>
                                 <article id="tabs-2" className="mb-5">
-                                    <img src={ServiceImageOne} alt="" />
+                                    <img src={ServiceImageOne} alt=""/>
                                     <h4>Advanced NDT</h4>
                                     <p>
                                         Our advanced non-destructive testing (NDT) techniques should
@@ -84,7 +111,7 @@ export default function Services () {
                                     </p>
                                 </article>
                                 <article id="tabs-3" className="mb-5">
-                                    <img src={ServiceImageTwo} alt="" />
+                                    <img src={ServiceImageTwo} alt=""/>
                                     <h4>OCTG Inspection Services</h4>
                                     <p>
                                         To expand on our service, we offer tubular inspections
@@ -106,7 +133,7 @@ export default function Services () {
                                     </p>
                                 </article>
                                 <article id="tabs-4">
-                                    <img src={ServiceImageThree} alt="" />
+                                    <img src={ServiceImageThree} alt=""/>
                                     <h4>Lifting Inspection</h4>
                                     <p>
                                         Any lifting and hand equipment should be checked
@@ -121,12 +148,32 @@ export default function Services () {
                                         </ol>
                                     </p>
                                 </article>
+                                <article id="tabs-5">
+                                    <img src={ServiceImageTwo} alt=""/>
+                                    <h4>Third Party Inspection</h4>
+                                    <p>
+                                        For our 3rd party inspection services we provide:
+                                        <ol>
+                                            <li>FOCUS :product -oriented,identification of defects.</li>
+                                            <li>ACTIVITIES :inspection testing and measurements.</li>
+                                            <li>OBJECTIVE:Ensure final product meet quality standards</li>
+                                            <li>DOCUMENTATION: Inspection reports and testing results.</li>
+                                        </ol>
+                                    </p>
+                                </article>
+                                <article id="tabs-6">
+                                    <img src={ServiceImageThree} alt=""/>
+                                    <h4>Factory Inspection</h4>
+                                    <p>
+                                        Through assessments of factory premises to ensure compliance with safety and regulatory standards.
+                                    </p>
+                                </article>
                             </section>
                         </div>
                     </div>
                 </div>
             </div>
-            <CallbackForm />
+            <CallbackForm/>
             <p className="mb-5"></p>
         </PageLayout>
     )

@@ -40,7 +40,7 @@ export default function () {
                             formalizing these values and our underlying pillars of
                             belief (behaviours). We are recognizing and acknowledging
                             what is important to us as a company and what makes us
-                            CEDAR INSPECTION VENTURES (CIV).<br/>
+                            CEDAR INSPECTION VENTURES (CIV) LIMITED.<br/>
                             Our Values are as follows: <br/>
                             <em>SAFETY </em>: We will always but the health, well-being
                             and safety of our people first. No compromise.

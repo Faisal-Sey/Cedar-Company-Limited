@@ -19,7 +19,7 @@ export default function () {
                                     <div className="right-content">
                                         <span>Who we are</span>
                                         <h2>
-                                            Get to know about <em>our company</em>
+                                            Get to know about <em>Cedar Inspection Ventures (CIV) Limited</em>
                                         </h2>
                                         <p>
                                             Our experience in inspection, together with our extensive knowledge
