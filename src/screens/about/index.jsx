@@ -42,7 +42,7 @@ export default function () {
                                                     platform.
                                                     <br/>
                                                     <br/>
-                                                    CIV believe that we form part of your front line risk management
+                                                    CIV Limited believe that we form part of your front line risk management
                                                     resource
                                                     ensuring that project assets are prepared in compliance with
                                                     relevant
@@ -51,7 +51,7 @@ export default function () {
                                                     inspectors who are highly mobile and at home in their operating
                                                     environments. Our inspectors are highly experienced and fully
                                                     qualified
-                                                    with the international Standards of ISO, ASNT, ASME, LEED and etc.
+                                                    with the international Standards of ISO, ASNT, ASME, LEEA and etc.
                                                 </p>
                                             </div>
                                         </div>

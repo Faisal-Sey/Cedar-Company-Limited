@@ -12,12 +12,13 @@ export default function () {
     return (
         <PageLayout>
             <Banner />
-            <RequestForm />
             <Services />
             <FunFacts />
             <MoreInfo />
             <CallbackForm />
             <Testimonials />
+            <RequestForm />
+
             {/*<Partners />*/}
         </PageLayout>
 
